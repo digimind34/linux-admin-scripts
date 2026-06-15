@@ -126,11 +126,7 @@ Monitors disk usage and generates warnings when usage exceeds a specified thresh
 * Warning alerts
 * Logging
 
-#### Example
-
-```bash
-./scripts/disk-monitor.sh 80
-```
+---
 
 ---
 
@@ -144,15 +140,10 @@ Safely removes old log files.
 * Configurable retention period
 * Safe deletion
 * Reporting
+---  
 
-#### Example
 
-Dry Run:
-
-```bash
-./scripts/cleanup-logs.sh /var/log 7 dry-run
-```
-
+---
 Delete Mode:
 
 ```bash
