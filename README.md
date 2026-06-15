@@ -322,14 +322,6 @@ chmod +x scripts/*.sh
 
 ---
 
-### Git Commit History
-
-![Git History](screenshots/git-history.png)
-
-### Git Status
-
-![Git Status](screenshots/git-status.png)
-
 ---
 
 ### AWS EC2 Testing Environment
@@ -350,8 +342,8 @@ chmod +x scripts/*.sh
 
 DevOps & Cloud Engineer
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/digimind34
+* LinkedIn: https://linkedin.com/in/babatunde-ayo-devops
 
 ---
 
