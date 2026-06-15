@@ -22,3 +22,10 @@ Retention: 0 days
 Mode: delete
 ======================================
 Cleanup completed. Matching old log files were deleted.
+======================================
+Log Cleanup Report - Sun Jun 14 23:29:12 EDT 2026
+Directory: test-logs
+Retention: 0 days
+Mode: dry-run
+======================================
+Dry-run completed. No files were deleted.
