@@ -4,6 +4,11 @@
 
 set -euo pipefail
 
+if [[ "$(uname)" != "Linux" ]]; then
+    echo "This script is intended for Linux systems."
+    exit 1
+fi
+
 SOURCE_DIR="${1:-}"
 BACKUP_DIR="${2:-./backups}"
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")

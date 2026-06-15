@@ -1,0 +1,18 @@
+======================================
+Disk Monitor Report - Sun, Jun 14, 2026  9:59:43 PM
+Threshold: 80%
+======================================
+OK: C:/Program mounted on 92% is 79G% full
+OK: E: mounted on /e is 7% full
+OK: F: mounted on /f is 50% full
+
+Disk monitoring completed.
+======================================
+Disk Monitor Report - Sun, Jun 14, 2026 10:00:01 PM
+Threshold: 70%
+======================================
+OK: C:/Program mounted on 92% is 79G% full
+OK: E: mounted on /e is 7% full
+OK: F: mounted on /f is 50% full
+
+Disk monitoring completed.
